@@ -11,5 +11,4 @@ PCCW Global Google Image Search Test Project
 
 5, it's a little difficult for me to access Google :-( 
 
-   
-This is a test
+
