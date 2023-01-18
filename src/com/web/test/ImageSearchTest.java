@@ -14,6 +14,7 @@ import com.web.common.Settings;
 import com.web.pom.HomePage;
 import com.web.pom.SearchPage;
 
+//This is main class
 public class ImageSearchTest {
 
 	private HomePage homePage;
